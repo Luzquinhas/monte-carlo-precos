@@ -1,5 +1,5 @@
-# Projeto de Simulação de Monte Carlo para Previsão de Preços
-Este projeto tem como objetivo comparar o uso de simulações de Monte Carlo para prever os preços de Bitcoin (BTC-USD) e outras grandes ações.
+Simulação de Monte Carlo para Previsão de Preços
+Este projeto tem como objetivo comparar o uso de simulações de Monte Carlo para prever os preços de Bitcoin (BTC-USD) e grandes ações.
 
 ## Integrantes do grupo:
 - Kaiky Alvaro de Miranda RM:98118
