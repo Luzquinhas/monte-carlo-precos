@@ -6,12 +6,8 @@ Este projeto tem como objetivo comparar o uso de simulações de Monte Carlo par
 - Lucas Rodrigues da Silva RM:98344
 - Juan Pinheiro de França RM:552202
 
-# Bibliotecas Necessárias
+## Bibliotecas Necessárias
 Para executar este projeto, você precisará das seguintes bibliotecas Python:
-
-Python
-
-
 
 ```
 import pandas as pd
@@ -21,7 +17,7 @@ import yfinance as yf
 ```
 
 
-# Funções Implementadas
+## Funções Implementadas
 1. ```calcular_retornos_logaritmicos(historico)```
 
   Calcula os retornos logarítmicos de uma série temporal de preços.
@@ -43,14 +39,14 @@ import yfinance as yf
 
   Calcula o Erro Percentual Absoluto Médio (MAPE) entre valores reais e valores previstos.
 
-#Como Executar
+## Como Executar
 1. **Baixar os Dados**: Utilize a função ```yf.download``` da biblioteca ```yfinance``` para baixar os dados históricos dos ativos desejados.
 2. **Rodar Simulações**: Utilize a função ```rodar_simulacao_monte_carlo``` para executar as simulações de Monte Carlo.
 3. **Plotar Resultados**: Utilize a função ```plotar_simulacoes``` para visualizar os resultados das simulações.
 4. **Calcular MAPE**: Utilize a função ```calcular_mape``` para calcular o Erro Percentual Absoluto Médio entre os valores reais e previstos.
 
-# Exemplo de Uso
-## Simulação para Bitcoin (BTC-USD)
+## Exemplo de Uso
+### Simulação para Bitcoin (BTC-USD)
 
 ### 1. Obter o gráfico da simulação Monte Carlo
 ``` 
