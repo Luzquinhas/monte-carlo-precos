@@ -1,4 +1,4 @@
-Simulação de Monte Carlo para Previsão de Preços
+# Simulação de Monte Carlo para Previsão de Preços
 Este projeto tem como objetivo comparar o uso de simulações de Monte Carlo para prever os preços de Bitcoin (BTC-USD) e grandes ações.
 
 ## Integrantes do grupo:
